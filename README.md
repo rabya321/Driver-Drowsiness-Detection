@@ -28,10 +28,18 @@ Driver-Drowsiness-Detection
 - assets/ — Results folder
 
 ## Installation
+1. Clone the repo:
 - git clone https://github.com/rabya321/Driver-Drowsiness-Detection.git
 - cd Driver-Drowsiness-Detection
+2. Create and activate a virtual environment
+- python -m venv venv
+- source venv/bin/activate   # Mac/Linux
+- venv\Scripts\activate      # Windows
+3. Install dlib
 - pip install dlib-20.0.0-cp313-cp313-win_amd64.whl
-- pip install -r requirements.tx
+4. Install dependencies
+- pip install -r requirements.txt
+- pip install cmake
 
 ## Usage
 - **Run with sample image**
@@ -41,4 +49,5 @@ python drowsiness_detection.py person.jpeg
 python drowsiness_detection.py
 
 
-## Example Output
+##  Example Output
+![Demo Output](assets/demo.png)
