@@ -18,14 +18,13 @@ It monitors **eye closure** and **yawning** by tracking facial landmarks, and di
 - NumPy, Pillow, Matplotlib, SciPy
 
 ## 📂 Project Structure
-Driver-Drowsiness-Detection/
-│
-├── drowsiness_detection.py                 # Main Script for detection
-├── drowsiness_detection.ipynb              # development & explanation
-├── person.jpeg                             # Sample input image
-├── requirements.txt                        # Python dependencies
-├── README.md                               # Project documentation
-└── assets/                                 # Results
+Driver-Drowsiness-Detection
+- drowsiness_detection.py — Main Script for detection
+- drowsiness_detection.ipynb — development & explanation
+- person.jpeg — Sample input image
+- requirements.txt — Python dependencies
+- README.md — Project documentation
+- assets/ — Results folder
 
 ## Installation
 git clone https://github.com/rabya321/Driver-Drowsiness-Detection.git
