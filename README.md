@@ -28,10 +28,10 @@ Driver-Drowsiness-Detection
 - assets/ — Results folder
 
 ## Installation
-git clone https://github.com/rabya321/Driver-Drowsiness-Detection.git
-cd Driver-Drowsiness-Detection
-pip install dlib-20.0.0-cp313-cp313-win_amd64.whl
-pip install -r requirements.txt
+-git clone https://github.com/rabya321/Driver-Drowsiness-Detection.git
+-cd Driver-Drowsiness-Detection
+-pip install dlib-20.0.0-cp313-cp313-win_amd64.whl
+-pip install -r requirements.txt
 
 ## Usage
 - **Run with sample image**
