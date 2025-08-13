@@ -51,3 +51,5 @@ python drowsiness_detection.py
 
 ##  Example Output
 ![Demo Output](assets/demo.png)
+![Webcam Output] (assests/demo.png)
+
